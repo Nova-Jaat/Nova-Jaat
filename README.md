@@ -60,6 +60,7 @@ Every individual project folder developed in the **Antigravity Engineering Suite
 
 | # | Dedicated GitHub Repository | Original Project Folder | Domain / Category | Files | Highlights & Architecture |
 |:---:|:---|:---|:---|:---:|:---|
+| 00 | **[Cloud-Engineer-Roadmap-Videos](https://github.com/Nova-Jaat/Cloud-Engineer-Roadmap-Videos)** | `Cloud-Engineer-Roadmap-Videos` | Cloud & DevOps Master Roadmaps | 77 | 7-Phase comprehensive master curriculum (Linux, AWS, IaC, Data/AI, Multi-Cloud). |
 | 01 | **[TechOps-Production-Guides](https://github.com/Nova-Jaat/TechOps-Production-Guides)** | `TechOps Examples` | Cloud & DevOps Platform | 55 | 44 AWS, K8s, Docker, Terraform & SRE deep-dive engineering guides. |
 | 02 | **[AI-Media-Intelligence-Analyses](https://github.com/Nova-Jaat/AI-Media-Intelligence-Analyses)** | `AI-M-Related` | Video & Media Intelligence | 101 | 100+ deep-dive video intelligence dossiers, transcripts, and growth models. |
 | 03 | **[AI-Job-Hunting-Career-Playbook](https://github.com/Nova-Jaat/AI-Job-Hunting-Career-Playbook)** | `Job-Related` | Career & ATS Systems | 51 | 2026 AI Job Hunting Playbook, full-stack `aws-genai-app`, and ATS matrices. |
